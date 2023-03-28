@@ -46,7 +46,7 @@ global.thumb = fs.readFileSync('./media/thumb.jpg')
 
 // Sticker WM / Info del sticker 
 global.packname = 'Bot Tiburón🦈'
-global.author = 'TheKillerMaxOfficial'
+global.author = 'DIEGO-OFC'
 global.wm = 'Bot Tiburón🦈'
 
 global.multiplier = 100 // más alto el número, más difícil se volverá subir de nivel
